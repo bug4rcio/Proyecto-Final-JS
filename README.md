@@ -11,10 +11,11 @@
 **- ¿Cómo visualizarlo?**
 > - Ir a la página inicial del repositorio.
 > - Clickear en la parte verde de **<> Code**, y luego a **Download ZIP**.
-![image](https://github.com/bug4rcio/Proyecto-Final-Curso-JS/assets/131096504/a18c42e1-29fc-4eb0-9fec-a38d2dc5e5df)
+![image](https://github.com/bug4rcio/bug4rcio.github.io/assets/131096504/d1005857-a9ed-4440-b833-be63604c6dcd)
 > - Se creará un archivo en su carpeta establecida de descargas, el cual debe descomprimir.
 > - Una vez descomprimido, se creará una carpeta con el nombre del repositorio: **"Proyecto-Final-Curso-JS"**.
-> - Deberá abrir la carpeta dentro de su editor de código y ejecutar cualquiera de los archivos con extensión **.html** (de preferencia ejecutar index.html).
+> - Deberá arrastrar o abrir las carpetas "codigo" y "multimedia" dentro de su editor de código y ejecutar cualquiera de los archivos con extensión **.html** (de preferencia ejecutar index.html).
+
 
 **- Autor:**
 - Marcio Alexander Flores Peña.
