@@ -14,7 +14,13 @@
 ![image](https://github.com/bug4rcio/bug4rcio.github.io/assets/131096504/d1005857-a9ed-4440-b833-be63604c6dcd)
 > - Se creará un archivo en su carpeta establecida de descargas, el cual debe descomprimir.
 > - Una vez descomprimido, se creará una carpeta con el nombre del repositorio: **"Proyecto-Final-Curso-JS"**.
-> - Deberá arrastrar o abrir las carpetas "codigo" y "multimedia" dentro de su editor de código y ejecutar cualquiera de los archivos con extensión **.html** (de preferencia ejecutar index.html).
+> - Deberá arrastrar o abrir las carpetas "codigo" y "multimedia" dentro de su editor de código.
+![image](https://github.com/bug4rcio/Proyecto-Final-JS/assets/131096504/0c63fd57-4430-48e6-a5ff-84eb520d6858)
+> - De esta forma, podrá observar la otra parte del proyecto, que es la que se encuentra detrás de todo lo estético y hace que se vea bien, como próximamente más dinámico de lo actual.
+![image](https://github.com/bug4rcio/Proyecto-Final-JS/assets/131096504/3430d393-2efa-4b9a-9a6a-c2b2dc016167)
+> - Como último paso tenemos el ejecutar (F5 en Visual Studio Code) cualquiera de los archivos con extensión **.html** (de preferencia ejecutar index.html) y explorar el proyecto.
+![image](https://github.com/bug4rcio/Proyecto-Final-JS/assets/131096504/295ef407-93a9-4cc9-ba58-919155bd87f4)
+
 
 
 **- Autor:**
